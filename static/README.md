@@ -2,7 +2,7 @@
 
 Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
 
-### Live Link: https://danielace1.github.io/Portfolio/
+### Live Link: satyavinays-portfolio.onrender.com
 
 ## Features
 
