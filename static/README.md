@@ -2,7 +2,7 @@
 
 Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
 
-### Live Link: satyavinays-portfolio.onrender.com
+### Live Link: (https://satyavinays-portfolio.onrender.com/)
 
 ## Features
 
